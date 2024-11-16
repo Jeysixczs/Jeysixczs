@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&width=435&lines=Welcome+to+my+Github+Profile!;Hi%2C+everyone%2C+I'm+Jeysi)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="170">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="180">
 
 ###  Technologies and Tools
 
@@ -20,6 +20,7 @@
 <a href="https://github.com/Jeysixczs/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
 </a>
+  
 <a href="https://github.com/Jeysixczs/convoychat">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeysixczs&layout=compact&langs_count=7&theme=one_dark_pro" />
 </a>
