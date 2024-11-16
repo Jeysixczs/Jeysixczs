@@ -21,7 +21,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/Jeysixczs/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeysixczs&layout=compact&langs_count=7&theme=one_dark_pro" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeysixczs&layout=compact&langs_count=7&theme=one_dark_pro" />
 </a>
   
 ###  Contact
