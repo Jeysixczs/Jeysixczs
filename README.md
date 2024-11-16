@@ -36,4 +36,4 @@
 
 ---
 
-This repository is a ✨ special ✨ place where innovation meets creativity. Follow my journey through the fascinating world of software development, and let's build something amazing together!
+This repository is a special place where innovation meets creativity. Follow my journey through the fascinating world of software development, and let's build something amazing together!
