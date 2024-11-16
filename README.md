@@ -35,6 +35,6 @@
   <a href="https://www.instagram.com/chogssss/"><img src="https://img.icons8.com/?size=50&id=Xy10Jcu1L2Su&format=png&color=000000" target="_blank"></a>
 </div>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 This repository is a special place where innovation meets creativity. Follow my journey through the fascinating world of software development, and let's build something amazing together!
