@@ -29,7 +29,7 @@
   <a href="https://github.com/Jeysixczs/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&rank_icons=github&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
   </a>
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeysixczs\&rank_icon=github)
   <a href="https://github.com/Jeysixczs/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysixczs&layout=donut&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
   </a>
