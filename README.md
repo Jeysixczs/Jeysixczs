@@ -27,8 +27,10 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 15px; border-radius: 10px; box-shadow: 0 0 15px #00ffff;">
   <a href="https://github.com/Jeysixczs/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&rank_icons=github&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=githu&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
   </a>
+
+
 
   <a href="https://github.com/Jeysixczs/convoychat">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysixczs&layout=donut&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=9f9f9f&bg_color=151515" />
