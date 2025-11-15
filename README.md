@@ -7,7 +7,6 @@ Watch my commits get eaten by the snake! The more I code, the longer the snake g
 ### Light Mode Version:
 ![Snake Game Light](https://github.com/Jeysixczs/Jeysixczs/blob/output/github-contribution-grid-snake.svg)
 
-### Dark Mode Version:
 ![Snake Game Dark](https://github.com/Jeysixczs/Jeysixczs/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Auto-detecting Version (Recommended):
