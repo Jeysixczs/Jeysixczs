@@ -39,10 +39,10 @@ currently: Turning ideas into useful, polished projects
 
 I like exploring how things work and creating software that blends functionality with thoughtful design. From desktop applications to interactive games and web experiences, I'm always learning by building.
 
-- ✦ I enjoy taking projects from an idea to a working release.
-- ⌘ I care about clean interfaces and practical user experiences.
-- 🌱 I'm always learning, experimenting, and improving.
-- ☕ Best paired with a new idea and a few commits.
+- **Building:** I enjoy taking projects from an idea to a working release.
+- **Design:** I care about clean interfaces and practical user experiences.
+- **Learning:** I'm always experimenting, exploring new tools, and improving.
+- **Process:** I like breaking down problems, testing ideas, and refining the result.
 
 ## `02` — Technologies & tools
 
@@ -85,14 +85,14 @@ I like exploring how things work and creating software that blends functionality
   <tr>
     <td width="50%" valign="top">
 
-**◈ Applications**
+**APPLICATIONS**
 
 Desktop tools and practical software that help make everyday workflows easier.
 
 </td>
     <td width="50%" valign="top">
 
-**◉ Interactive experiences**
+**INTERACTIVE EXPERIENCES**
 
 Games and learning experiences that make technology engaging.
 
@@ -101,14 +101,14 @@ Games and learning experiences that make technology engaging.
   <tr>
     <td width="50%" valign="top">
 
-**⌘ Web development**
+**WEB DEVELOPMENT**
 
 Responsive websites with clear layouts, thoughtful details, and personality.
 
 </td>
     <td width="50%" valign="top">
 
-**↗ Continuous learning**
+**CONTINUOUS LEARNING**
 
 Exploring tools, solving problems, and improving through hands-on projects.
 
