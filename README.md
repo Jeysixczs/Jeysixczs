@@ -39,10 +39,24 @@ currently: Turning ideas into useful, polished projects
 
 I like exploring how things work and creating software that blends functionality with thoughtful design. From desktop applications to interactive games and web experiences, I'm always learning by building.
 
-- **Building:** I enjoy taking projects from an idea to a working release.
-- **Design:** I care about clean interfaces and practical user experiences.
-- **Learning:** I'm always experimenting, exploring new tools, and improving.
-- **Process:** I like breaking down problems, testing ideas, and refining the result.
+<table>
+<tr>
+<td width="56"><img src="./assets/icons/building.svg" width="44" alt="Building" /></td>
+<td><strong>Building</strong><br/>I enjoy taking projects from an idea to a working release.</td>
+</tr>
+<tr>
+<td><img src="./assets/icons/design.svg" width="44" alt="Design" /></td>
+<td><strong>Design</strong><br/>I care about clean interfaces and practical user experiences.</td>
+</tr>
+<tr>
+<td><img src="./assets/icons/learning.svg" width="44" alt="Learning" /></td>
+<td><strong>Learning</strong><br/>I'm always experimenting, exploring new tools, and improving.</td>
+</tr>
+<tr>
+<td><img src="./assets/icons/process.svg" width="44" alt="Process" /></td>
+<td><strong>Process</strong><br/>I like breaking down problems, testing ideas, and refining the result.</td>
+</tr>
+</table>
 
 ## `02` — Technologies & tools
 
@@ -82,38 +96,18 @@ I like exploring how things work and creating software that blends functionality
 ## `04` — What I like building
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-
-**APPLICATIONS**
-
-Desktop tools and practical software that help make everyday workflows easier.
-
-</td>
-    <td width="50%" valign="top">
-
-**INTERACTIVE EXPERIENCES**
-
-Games and learning experiences that make technology engaging.
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-**WEB DEVELOPMENT**
-
-Responsive websites with clear layouts, thoughtful details, and personality.
-
-</td>
-    <td width="50%" valign="top">
-
-**CONTINUOUS LEARNING**
-
-Exploring tools, solving problems, and improving through hands-on projects.
-
-</td>
-  </tr>
+<tr>
+<td width="56" valign="top"><img src="./assets/icons/applications.svg" width="44" alt="Applications" /></td>
+<td width="44%" valign="top"><strong>Applications</strong><br/>Desktop tools and practical software that help make everyday workflows easier.</td>
+<td width="56" valign="top"><img src="./assets/icons/interactive.svg" width="44" alt="Interactive experiences" /></td>
+<td valign="top"><strong>Interactive experiences</strong><br/>Games and learning experiences that make technology engaging.</td>
+</tr>
+<tr>
+<td valign="top"><img src="./assets/icons/web.svg" width="44" alt="Web development" /></td>
+<td valign="top"><strong>Web development</strong><br/>Responsive websites with clear layouts, thoughtful details, and personality.</td>
+<td valign="top"><img src="./assets/icons/growth.svg" width="44" alt="Continuous learning" /></td>
+<td valign="top"><strong>Continuous learning</strong><br/>Exploring tools, solving problems, and improving through hands-on projects.</td>
+</tr>
 </table>
 
 ## `05` — Let's connect
