@@ -18,8 +18,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Jeysixczs&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
