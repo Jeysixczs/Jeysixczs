@@ -1,1 +1,134 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=JEYSI&fontColor=ffffff&fontSize=72&fontAlignY=45&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=65&descSize=16" width="100%" alt="Jeysi profile banner" />
+
+<br/>
+
+### `building ideas into reality, one commit at a time.`
+
+<p>
+  <a href="https://jeysidev.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/Jeysixczs">
+    <img src="https://img.shields.io/badge/GITHUB-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Jeysixczs?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-0f172a?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Jeysixczs&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+---
+
+## `01` — About me
+
+```yaml
+name: Jeysi
+role: Developer
+interests:
+  - Software development
+  - Web experiences
+  - Game development
+  - Learning new technologies
+currently: Turning ideas into useful, polished projects
+```
+
+I like exploring how things work and creating software that blends functionality with thoughtful design. From desktop applications to interactive games and web experiences, I'm always learning by building.
+
+- ✦ I enjoy taking projects from an idea to a working release.
+- ⌘ I care about clean interfaces and practical user experiences.
+- 🌱 I'm always learning, experimenting, and improving.
+- ☕ Best paired with a new idea and a few commits.
+
+## `02` — Technologies & tools
+
+<div align="center">
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="C sharp, JavaScript, HTML, CSS" />
+
+**FRAMEWORKS · ENGINES · DATABASES**
+
+<img src="https://skillicons.dev/icons?i=dotnet,unity,firebase,mysql" alt=".NET, Unity, Firebase, MySQL" />
+
+**TOOLS & WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, VS Code, Visual Studio" />
+
+</div>
+
+## `03` — GitHub at a glance
+
+<div align="center">
+
+<a href="https://github.com/Jeysixczs">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&icon_color=67e8f9&rank_icon=github" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Jeysixczs">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysixczs&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Jeysixczs&hide_border=true&background=0D1117&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+
+</div>
+
+## `04` — What I like building
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**◈ Applications**
+
+Desktop tools and practical software that help make everyday workflows easier.
+
+</td>
+    <td width="50%" valign="top">
+
+**◉ Interactive experiences**
+
+Games and learning experiences that make technology engaging.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**⌘ Web development**
+
+Responsive websites with clear layouts, thoughtful details, and personality.
+
+</td>
+    <td width="50%" valign="top">
+
+**↗ Continuous learning**
+
+Exploring tools, solving problems, and improving through hands-on projects.
+
+</td>
+  </tr>
+</table>
+
+## `05` — Let's connect
+
+<div align="center">
+
+Have an idea, want to collaborate, or just want to talk about development? Find me here.
+
+[![Portfolio](https://img.shields.io/badge/Website-jeysidev.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://jeysidev.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-@Jeysixczs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeysixczs)
+
+<br/>
+
+*“Stay curious. Keep building. Make it better.”*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:6366f1,100:06b6d4&section=footer" width="100%" alt="" />
+
+</div>
