@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0f172a,50:312e81,100:06b6d4&text=JEYSI&fontColor=ffffff&fontSize=72&fontAlignY=45&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=65&descSize=16" width="100%" alt="Jeysi profile banner" />
 
@@ -26,16 +26,17 @@
 
 ```yaml
 name: Jeysi
-role: Developer
+role: Full Stack Developer
 interests:
   - Software development
-  - Web experiences
+  - Web development and REST APIs
+  - Mobile application development
   - Game development
   - Learning new technologies
-currently: Turning ideas into useful, polished projects
+currently: Building useful projects and improving my development skills
 ```
 
-I like exploring how things work and creating software that blends functionality with thoughtful design. From desktop applications to interactive games and web experiences, I'm always learning by building.
+I'm a student passionate about software development and technology. I enjoy learning new programming languages, exploring different technologies, and building projects that improve my skills. From web applications and REST APIs to desktop applications, Android apps, and games, I continue to learn through hands-on development.
 
 <table>
 <tr>
@@ -44,15 +45,15 @@ I like exploring how things work and creating software that blends functionality
 </tr>
 <tr>
 <td><img src="./assets/icons/design.svg" width="44" alt="Design" /></td>
-<td><strong>Design</strong><br/>I care about clean interfaces and practical user experiences.</td>
+<td><strong>Design</strong><br/>I care about clean interfaces, responsive layouts, and practical user experiences.</td>
 </tr>
 <tr>
 <td><img src="./assets/icons/learning.svg" width="44" alt="Learning" /></td>
-<td><strong>Learning</strong><br/>I'm always experimenting, exploring new tools, and improving.</td>
+<td><strong>Learning</strong><br/>I'm always exploring new technologies and improving my programming skills.</td>
 </tr>
 <tr>
 <td><img src="./assets/icons/process.svg" width="44" alt="Process" /></td>
-<td><strong>Process</strong><br/>I like breaking down problems, testing ideas, and refining the result.</td>
+<td><strong>Problem-solving</strong><br/>I enjoy breaking down problems, testing ideas, and refining solutions.</td>
 </tr>
 </table>
 
@@ -78,7 +79,7 @@ I like exploring how things work and creating software that blends functionality
 
 **DATABASES & CLOUD**
 
-<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="SQL databases and Firebase" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="MySQL and Firebase" />
 
 **DEVELOPMENT TOOLS & DEPLOYMENT**
 
@@ -86,8 +87,13 @@ I like exploring how things work and creating software that blends functionality
 
 </div>
 
-**Additional technologies:** ASP.NET Core Web API, REST APIs, Clean Architecture, Entity Framework Core, Microsoft SQL Server, SQL, Android SDK, XML Layouts, UXML Layout, Windows Forms, CSS frameworks, NuGet, Render, and responsive web design.
+**Additional technologies**
 
+- **Backend:** ASP.NET Core Web API, REST APIs, Clean Architecture, Entity Framework Core
+- **Databases:** Microsoft SQL Server, SQL
+- **Frontend:** Responsive web design, CSS frameworks
+- **Mobile and game development:** Android SDK, XML layouts, UXML layout, Windows Forms
+- **Tools and deployment:** NuGet, Render
 
 ## `03` — GitHub at a glance
 
@@ -97,12 +103,12 @@ I like exploring how things work and creating software that blends functionality
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jeysixczs&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9&icon_color=67e8f9&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Jeysixczs">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysixczs&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeysixczs&layout=compact&hide_border=true&bg_color=0d1117&title_color=a5b4fc&text_color=c9d1d9" alt="Most used programming languages" />
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Jeysixczs&hide_border=true&background=0D1117&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Jeysixczs&hide_border=true&background=0D1117&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&timezone=Asia%2FManila" alt="GitHub contribution streak in Philippine time" />
 
 </div>
 
@@ -111,15 +117,15 @@ I like exploring how things work and creating software that blends functionality
 <table>
 <tr>
 <td width="56" valign="top"><img src="./assets/icons/applications.svg" width="44" alt="Applications" /></td>
-<td width="44%" valign="top"><strong>Applications</strong><br/>Desktop tools and practical software that help make everyday workflows easier.</td>
+<td width="44%" valign="top"><strong>Applications</strong><br/>Desktop software, management systems, and practical tools that make everyday tasks easier.</td>
 <td width="56" valign="top"><img src="./assets/icons/interactive.svg" width="44" alt="Interactive experiences" /></td>
-<td valign="top"><strong>Interactive experiences</strong><br/>Games and learning experiences that make technology engaging.</td>
+<td valign="top"><strong>Interactive experiences</strong><br/>Games and educational applications that make technology engaging.</td>
 </tr>
 <tr>
 <td valign="top"><img src="./assets/icons/web.svg" width="44" alt="Web development" /></td>
-<td valign="top"><strong>Web development</strong><br/>Responsive websites with clear layouts, thoughtful details, and personality.</td>
+<td valign="top"><strong>Web development</strong><br/>Responsive websites, frontend interfaces, and REST APIs.</td>
 <td valign="top"><img src="./assets/icons/growth.svg" width="44" alt="Continuous learning" /></td>
-<td valign="top"><strong>Continuous learning</strong><br/>Exploring tools, solving problems, and improving through hands-on projects.</td>
+<td valign="top"><strong>Continuous learning</strong><br/>Exploring technologies, solving problems, and improving through hands-on projects.</td>
 </tr>
 </table>
 
@@ -129,8 +135,12 @@ I like exploring how things work and creating software that blends functionality
 
 Have an idea, want to collaborate, or just want to talk about development? Find me here.
 
-[![Portfolio](https://img.shields.io/badge/Website-jeysidev.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://jeysidev.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-@Jeysixczs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jeysixczs)
+<a href="https://jeysidev.vercel.app">
+  <img src="https://img.shields.io/badge/Website-jeysidev.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
+</a>
+<a href="https://github.com/Jeysixczs">
+  <img src="https://img.shields.io/badge/GitHub-@Jeysixczs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
 <br/>
 
