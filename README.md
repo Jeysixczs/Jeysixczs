@@ -60,19 +60,34 @@ I like exploring how things work and creating software that blends functionality
 
 <div align="center">
 
-**LANGUAGES**
+**PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=cs,js,html,css" alt="C sharp, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=cs,js,kotlin,html,css" alt="C#, JavaScript, Kotlin, HTML5, CSS3" />
 
-**FRAMEWORKS · ENGINES · DATABASES**
+**FRONTEND DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=dotnet,unity,firebase,mysql" alt=".NET, Unity, Firebase, MySQL" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="React, Vite, Tailwind CSS" />
 
-**TOOLS & WORKFLOW**
+**BACKEND DEVELOPMENT & APIs**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" alt="Git, GitHub, VS Code, Visual Studio" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express" alt=".NET, Node.js, Express.js" />
+
+**MOBILE & GAME DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,unity" alt="Android Studio, Unity" />
+
+**DATABASES & CLOUD**
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase" alt="SQL databases and Firebase" />
+
+**DEVELOPMENT TOOLS & DEPLOYMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,vercel,postman" alt="Git, GitHub, VS Code, Visual Studio, Vercel, Postman" />
 
 </div>
+
+**Additional technologies:** ASP.NET Core Web API, REST APIs, Clean Architecture, Entity Framework Core, Microsoft SQL Server, SQL, Android SDK, XML Layouts, UXML Layout, Windows Forms, CSS frameworks, NuGet, Render, and responsive web design.
+
 
 ## `03` — GitHub at a glance
 
