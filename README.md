@@ -108,7 +108,7 @@ I'm a student passionate about software development and technology. I enjoy lear
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Jeysixczs&hide_border=true&background=0D1117&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&timezone=Asia%2FManila" alt="GitHub contribution streak in Philippine time" />
+
 
 </div>
 
